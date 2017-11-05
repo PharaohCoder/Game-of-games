@@ -1,11 +1,6 @@
 import random
 import math
 
-def RdmNmr():
-    for x in range(1):
-        a = random.randint(0, 3)
-        return a
-
 def RndNmr():
     for x in range(1):
         a = random.randint(0, 3)
